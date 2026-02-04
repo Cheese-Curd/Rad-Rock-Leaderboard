@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Rad Rock</GameName>
+  <CategoryName>Boostless%</CategoryName>
+  <LayoutPath>C:\Users\tstutesman508\Desktop\RadRock_LiveSplit\RadRock_Layout.lsl</LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>22</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="02/04/2026 19:13:57" isStartedSynced="True" ended="02/04/2026 19:17:09" isEndedSynced="True">
+      <RealTime>00:03:11.3266132</RealTime>
+    </Attempt>
+    <Attempt id="2" started="02/04/2026 19:17:25" isStartedSynced="True" ended="02/04/2026 19:19:16" isEndedSynced="True">
+      <RealTime>00:01:51.2962543</RealTime>
+    </Attempt>
+    <Attempt id="3" started="02/04/2026 19:20:07" isStartedSynced="True" ended="02/04/2026 19:20:52" isEndedSynced="True" />
+    <Attempt id="4" started="02/04/2026 19:20:56" isStartedSynced="True" ended="02/04/2026 19:21:13" isEndedSynced="True" />
+    <Attempt id="5" started="02/04/2026 19:21:18" isStartedSynced="True" ended="02/04/2026 19:21:19" isEndedSynced="True" />
+    <Attempt id="6" started="02/04/2026 19:21:22" isStartedSynced="True" ended="02/04/2026 19:22:38" isEndedSynced="True" />
+    <Attempt id="7" started="02/04/2026 19:22:41" isStartedSynced="True" ended="02/04/2026 19:23:41" isEndedSynced="True" />
+    <Attempt id="8" started="02/04/2026 19:23:43" isStartedSynced="True" ended="02/04/2026 19:24:26" isEndedSynced="True" />
+    <Attempt id="9" started="02/04/2026 19:24:36" isStartedSynced="True" ended="02/04/2026 19:24:55" isEndedSynced="True" />
+    <Attempt id="10" started="02/04/2026 19:25:04" isStartedSynced="True" ended="02/04/2026 19:26:45" isEndedSynced="True" />
+    <Attempt id="11" started="02/04/2026 19:34:44" isStartedSynced="True" ended="02/04/2026 19:35:52" isEndedSynced="True" />
+    <Attempt id="12" started="02/04/2026 19:35:56" isStartedSynced="True" ended="02/04/2026 19:35:57" isEndedSynced="True" />
+    <Attempt id="13" started="02/04/2026 19:36:01" isStartedSynced="True" ended="02/04/2026 19:37:52" isEndedSynced="True">
+      <RealTime>00:01:51.1039901</RealTime>
+    </Attempt>
+    <Attempt id="14" started="02/04/2026 19:45:10" isStartedSynced="True" ended="02/04/2026 19:46:13" isEndedSynced="True" />
+    <Attempt id="15" started="02/04/2026 19:58:00" isStartedSynced="True" ended="02/04/2026 19:58:10" isEndedSynced="True" />
+    <Attempt id="16" started="02/04/2026 19:58:16" isStartedSynced="True" ended="02/04/2026 20:00:04" isEndedSynced="True">
+      <RealTime>00:01:47.9337879</RealTime>
+    </Attempt>
+    <Attempt id="17" started="02/04/2026 20:09:00" isStartedSynced="True" ended="02/04/2026 20:09:01" isEndedSynced="True" />
+    <Attempt id="18" started="02/04/2026 20:09:04" isStartedSynced="True" ended="02/04/2026 20:09:06" isEndedSynced="True" />
+    <Attempt id="19" started="02/04/2026 20:09:08" isStartedSynced="True" ended="02/04/2026 20:11:01" isEndedSynced="True">
+      <RealTime>00:01:52.5175066</RealTime>
+    </Attempt>
+    <Attempt id="20" started="02/04/2026 20:12:03" isStartedSynced="True" ended="02/04/2026 20:13:11" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Level 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:15.1205303</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:11.3760335</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:15.3428856</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:14.8163117</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:14.7518007</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:14.7668333</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:14.7512104</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:14.8639348</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:00:15.1864584</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:00:14.7828861</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:15.0085288</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:15.9682523</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:14.8960230</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:00:11.3760335</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:15.1205303</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:00:14.8320420</RealTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:00:14.8636810</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Level 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:29.7758985</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:07.5240463</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:15.5198300</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:15.2799397</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:15.3120935</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:15.1370955</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:15.0559766</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:00:15.1166834</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:15.6464206</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:13.5996806</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:14.8797875</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:00:07.5240463</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:14.6553682</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:00:16.5301038</RealTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:00:14.9709561</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Level 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:45.0182514</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:14.9647461</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:49.4238364</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:17.8570286</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:37.2664476</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:15.6489458</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:15.1678528</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:15.3158577</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:15.0423463</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:15.2423529</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:00:15.0301408</RealTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:00:14.9647461</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Level 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:59.7428031</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:14.7245517</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:15.9040328</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:15.5996342</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:14.8010608</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:14.9580461</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:15.1977405</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:14.7245517</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:00:15.5596659</RealTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:00:15.0003382</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Level 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:16.2824328</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:15.8079079</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:43.1040447</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:17.1992286</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:17.6466577</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:15.8079079</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:16.5396297</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:00:15.9840451</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Level 6</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:31.5542681</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:15.2718353</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:36.3613369</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:15.3609694</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:20.2881947</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:15.2718353</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:00:16.4004357</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Level 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:47.9337879</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record">
+          <RealTime>00:01:47.5400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:14.9919902</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:15.6706468</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:15.1831421</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:14.9919902</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:16.3795198</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:00:18.1810733</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
